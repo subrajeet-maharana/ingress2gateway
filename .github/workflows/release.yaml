@@ -1,3 +1,4 @@
+# Sample commit to check the workflow
 name: release
 on:
   push:
